@@ -1,4 +1,4 @@
-#Virtual & Augmented Reality understanding the race for the next computing platfrom
+##Virtual & Augmented Reality understanding the race for the next computing platfrom
 虚拟现实&增强现实：理解下一代计算平台的竞争
 Virtual and augmented reality have the potential to become the next big computing platform.All around us are examples of where VR(which immerses the user in a virtual world)and AR（which overlays digital information onto the physical world）can reshape existing ways of doing things-from buying a new home to interaction with a doctor or watching a concert.In the first of a new Profiles in Innovation series,we examine what VR/AR could become,the evolving use cases and the markets that could be crated and disrupted.
 
